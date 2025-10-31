@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175073756727",
+    "project_id": "hotelfinder-408e1",
+    "storage_bucket": "hotelfinder-408e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175073756727:android:753d89d26ead1e1c9a61b2",
+        "android_client_info": {
+          "package_name": "com.example.hotels_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175073756727-a8hl6l9o4ot6tve1gni2ld0jrcd99a9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotels_app",
+            "certificate_hash": "cd0587b40d6ede1419d72269a1adcfa0197c77af"
+          }
+        },
+        {
+          "client_id": "175073756727-76nk0n50fcve7j3r9l79qb09kh47h0sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3j38G0Ki1ijMXra5LDTJmsGDKJacnuGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175073756727-76nk0n50fcve7j3r9l79qb09kh47h0sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
